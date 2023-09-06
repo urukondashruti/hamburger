@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.con2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  width: 100vw;
+  height: 100vh;
+}
+
+.con3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.con6 {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.con7 {
+  list-style-type: none;
+}
+
+.con8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 300px;
+}
+
+.list1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.para {
+  margin-top: 18px;
+  margin-right: 20px;
+}
